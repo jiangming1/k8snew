@@ -15,7 +15,7 @@ http://k8s.776580.com/
 ```
 http://k8s.776580.com/
 ##创建
-docker-create.png
+![trump.jpg](docker-create.png)
 ##列表
 docker-list.png
 ## Quick Start
