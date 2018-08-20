@@ -3,13 +3,22 @@
 [![Build Status](https://travis-ci.org/mtianyan/hexoBlog-Github.svg?branch=master)](https://travis-ci.org/mtianyan/hexoBlog-Github)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
-使用Python3.x与Django2.0.1开发的在线教育平台网站: http://mxonline.mtianyan.cn
+使用Python3.x与Django2.0.1开发的k8s运维管理平台网站: http://k8s.776580.com
+
+
+## 演示网站
+```
+http://k8s.776580.com
+用户名:admin
+密码:jmdjsj903291A
+作用:启动后依据一个images镜像配置网站.并启动负载均衡服务.
+```
 
 ## Quick Start
 
 ```
-$ git clone https://github.com/mtianyan/Mxonline3.git
-$ cd Mxonline3
+$ git clone https://github.com/jiangming1/k8snew.git
+$ cd k8snew
 $ pip install -r requirements.txt
 $ python manage.py runserver
 ```
@@ -18,7 +27,7 @@ use the address: http://127.0.0.1:8000/
 
 ## Contents：
 
-对应教程已开通简书连载文集: https://www.jianshu.com/nb/21010157
+对应教程已开通简书连载文集: https://www.jianshu.com/nb/
 
 **欢迎大家关注订阅，点赞！！！**
 
@@ -28,8 +37,8 @@ use the address: http://127.0.0.1:8000/
 - 自己已经学习Python一年了，最近对于Python相关开始进行一个较全面复习。
 - 希望可以帮到那些对于Python，对Django有兴趣的同学少走弯路。
 
-[项目线上演示地址](http://mxonline.mtianyan.cn)
-[原版视频课程地址:](https://coding.imooc.com/learn/list/78.html)
+[项目线上演示地址](http://k8s.caiwuhao.com)
+[原版视频课程地址:](https://coding.imooc.com/learn/)
 
 >一次性的一个完整项目代码很难被学习，所以我采用commit记录源码快照 + 阶段性教程结合的形式。类似关卡式学习概念。
 
@@ -39,9 +48,9 @@ use the address: http://127.0.0.1:8000/
 希望可以对Django初学者，Python爱好者有所帮助。
 
 ## About me
-[简书](https://www.jianshu.com/u/db9a7a0daa1f) && [mtianyan's blog](http://blog.mtianyan.cn/)
+[简书](https://www.jianshu.com/u/db9a7a0daa1f) && [mtianyan's blog](http://github.com/jiangming1)
 
-有趣的Python群：619417153
+有趣的Python群：141708431
 
 欢迎关注简书，star项目！谢谢！
 
@@ -53,8 +62,6 @@ use the address: http://127.0.0.1:8000/
 
 微信打赏:
 
-![mark](http://myphoto.mtianyan.cn/blog/180302/i52eHgilfD.png?imageslim)
 
 支付宝打赏:
 
-![mark](http://myphoto.mtianyan.cn/blog/180302/gDlBGemI60.jpg?imageslim)
