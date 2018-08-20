@@ -14,6 +14,10 @@ http://k8s.776580.com/
 作用:启动后依据一个images镜像配置网站.并启动负载均衡服务.
 ```
 http://k8s.776580.com/
+##创建
+docker-create.png
+##列表
+docker-list.png
 ## Quick Start
 
 ```
