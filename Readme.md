@@ -13,7 +13,7 @@ http://k8s.776580.com:8009/xadmin
 密码:jmdjsj903291A
 作用:启动后依据一个images镜像配置网站.并启动负载均衡服务.
 ```
-http://k8s.776580.com/
+http://k8s.776580.com:8009/xadmin
 ##创建
 ![trump.jpg](docker-create.png)
 ##列表
